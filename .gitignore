@@ -2,3 +2,5 @@
 *.tfstate.backup
 .terraform
 *.iml
+aws/THIRD_PARTY_LICENSES
+aws/dist/
