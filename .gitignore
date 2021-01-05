@@ -4,3 +4,5 @@
 *.iml
 aws/THIRD_PARTY_LICENSES
 aws/dist/
+aws/install
+aws/README.md
