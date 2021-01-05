@@ -1,7 +1,3 @@
-terraform {
-  required_version = ">= 0.12, < 0.13"
-}
-
 resource "aws_lb" "example" {
   name               = var.alb_name
   load_balancer_type = "application"
