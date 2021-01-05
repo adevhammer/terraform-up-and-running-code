@@ -7,3 +7,4 @@ aws/dist/
 aws/install
 aws/README.md
 awscliv2.zip
+code/terraform/06-production-grade-infrastructure/small-modules/examples/alb/.terraform.lock.hcl
